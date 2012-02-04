@@ -1,6 +1,6 @@
 # Woff Fonts
 
-Some open source OTF fonts converted to WOFF format force use on websites
+Some open source OTF fonts which I've converted to WOFF format for use on websites
 
 Example SASS:
 
