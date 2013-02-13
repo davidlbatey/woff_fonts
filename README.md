@@ -1,5 +1,7 @@
 # Woff Fonts
 
+See in action: http://iegik.github.com/woff_fonts/
+
 Some open source OTF fonts which I've converted to WOFF format for use on websites
 
 Example CSS:
@@ -54,4 +56,11 @@ p {
 ```
 
 Note: Use same family for several styles and weight!
+Issue: http://winlinmac.wordpress.com/2013/02/13/line-height-or-font-size-property-are-not-correct/
+Software used: FontForge ( http://fontforge.org/ )
 
+*I`m trying to keep that fonts, which licenses allows as to use fonts for our purposes: creating some software using them, create new own fonts from them or improve them (add new characters or fix some bugs).*
+
+* Apache License, version 2.0
+* SIL Open Font License, 1.1
+* MIT
